@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="bootstrap.css">
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+    <script type="text/javascript">
+        function regajax() {
+            $.ajax({
+                type: "POST",
+                url: "http://10.252.73.165:8080/user/check",
+                dataType:"json",
+                data: {
+                    value:document.getElementById("username").value //此处修改用户名id
+                },
+                success: function (data) {
+                    console.log(data);
+                    document.getElementById('usernamemsg').innerText = data.msg;
+                },
+                error: function (err) {
+                    console.log(err);
+                }
+            });
+        }
+        function Submit(){
+            $.ajax({
+                type: "POST",
+                url: "http://10.252.73.165:8080/user/register",
+                dataType:"json",
+                data: {
+                  uname:document.getElementById("username").value, //此处修改用户名id
+                  upwd:document.getElementById("password").value //此处修改密码id
+                },
+                success: function (data) {
+                    console.log(data.msg);
+                },
+                error: function (err) {
+                    console.log(err);
+                }
+            });
+            return false;
+        }
+    </script>
+</head>
+<body>
+    <form id="regform" onsubmit="return Submit()">
+        用户名：<input type="text" placeholder="请输入内容" id="username" name="uname" onblur="regajax()"/><b id="usernamemsg"></b>
+        <br/>
+        密码：<input type="text" placeholder="请输入内容" id="password" name="upwd"/><b id="passwordmsg"></b>
+        <br/>
+        邮箱：<input type="text" placeholder="请输入内容" id="email" name="email" /><b id="emailmsg"></b>
+        <br/>
+        电话：<input type="text" placeholder="请输入内容" id="phone" name="phone" /><b id="phonemsg"></b>
+        <br/>
+        <input type="submit" value="注册"/>
+    </form>
+</body>
+</html>

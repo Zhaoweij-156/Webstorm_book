@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f677926-399b-4bf3-a00d-ed43883d25c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="boot" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ktw2u21L5F1z9bCdcHuJPW54ov" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\GroupWork\js" />
+      <recent name="C:\Users\Administrator\WebstormProjects\GroupWork\css" />
+      <recent name="C:\Users\Administrator\WebstormProjects\GroupWork" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\GroupWork\module" />
+      <recent name="C:\Users\Administrator\WebstormProjects\GroupWork" />
+      <recent name="C:\Users\Administrator\WebstormProjects\GroupWork\js" />
+      <recent name="C:\Users\Administrator\WebstormProjects\GroupWork\html" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GroupWork/html/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.register.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f677926-399b-4bf3-a00d-ed43883d25c4" name="Default Changelist" comment="" />
+      <created>1606532991567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606532991567</updated>
+      <workItem from="1606532992614" duration="739000" />
+      <workItem from="1606577207916" duration="1408000" />
+      <workItem from="1606579031434" duration="3888000" />
+      <workItem from="1606620777233" duration="33446000" />
+      <workItem from="1606708362304" duration="269000" />
+      <workItem from="1606708718836" duration="108000" />
+      <workItem from="1606827531281" duration="948000" />
+      <workItem from="1606881601859" duration="11968000" />
+      <workItem from="1606896042092" duration="21000" />
+      <workItem from="1606901485138" duration="46000" />
+      <workItem from="1606906792724" duration="4779000" />
+      <workItem from="1606911736419" duration="1330000" />
+      <workItem from="1606914912597" duration="1134000" />
+      <workItem from="1606919513428" duration="11000" />
+      <workItem from="1607001958647" duration="5329000" />
+      <workItem from="1607314813395" duration="1496000" />
+      <workItem from="1607339545584" duration="2340000" />
+      <workItem from="1607416826317" duration="2569000" />
+      <workItem from="1607506991103" duration="1512000" />
+      <workItem from="1607560470553" duration="4096000" />
+      <workItem from="1608039759359" duration="7928000" />
+      <workItem from="1608098202893" duration="5038000" />
+      <workItem from="1608313762612" duration="8518000" />
+      <workItem from="1615289219667" duration="2588000" />
+      <workItem from="1615871154896" duration="301000" />
+      <workItem from="1615871489420" duration="1722000" />
+      <workItem from="1616482240698" duration="2660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615871499664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615871499664" />
+    <state width="1180" height="175" key="GridCell.Tab.0.bottom" timestamp="1616494734551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1180" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616494734551" />
+    <state width="1180" height="175" key="GridCell.Tab.0.center" timestamp="1616494734551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1180" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616494734551" />
+    <state width="1180" height="175" key="GridCell.Tab.0.left" timestamp="1616494734550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1180" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616494734550" />
+    <state width="1180" height="175" key="GridCell.Tab.0.right" timestamp="1616494734551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1180" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616494734551" />
+  </component>
+</project>
